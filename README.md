@@ -8,9 +8,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 ![Alt text](https://github.com/sookie22/belly_button_challenge/blob/acd4cc395b099219c4fa083300ba4f7160ccbaaa/Plots/Overall%20Dashboard.png)
 
 ### Plots created using Plotly 
-The Horizontal Bar Chart
 ![Alt text](https://github.com/sookie22/belly_button_challenge/blob/acd4cc395b099219c4fa083300ba4f7160ccbaaa/Plots/Horizontal%20Bar%20Chart.png)
-The Bubble Chart
 ![Alt text](https://github.com/sookie22/belly_button_challenge/blob/acd4cc395b099219c4fa083300ba4f7160ccbaaa/Plots/Bubble%20Chart.png)
-The Gauge Chart
 ![Alt text](https://github.com/sookie22/belly_button_challenge/blob/acd4cc395b099219c4fa083300ba4f7160ccbaaa/Plots/Gauge%20Chart.png)
